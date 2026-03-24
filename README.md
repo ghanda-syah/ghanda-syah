@@ -2,6 +2,8 @@
   <img src="img/github-header-banner.png" alt="Profile Banner" width="100%" style="border-radius: 12px;"/>
 </div>
 
+<br>
+
 <p align="center">
   💻 <b>Mobile & Web Developer</b> <br/>
   🚀 I build useful digital products (not just experiments)
@@ -56,11 +58,14 @@ shoot me an email at **[ghanda.syah@gmail.com](mailto:ghanda.syah@gmail.com)** o
 <br/>
 
 <p align="left">
+  <a href="https://github.com/ghanda-syah" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ghanda-syah-putra-dewa/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/ghandoy_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
