@@ -1,49 +1,54 @@
 <div align="center">
-  <!-- <img src="banner.png" alt="Profile Banner" width="100%" style="border-radius: 12px;"/> -->
   <img src="img/github-header-banner.png" alt="Profile Banner" width="100%" style="border-radius: 12px;"/>
 </div>
 
-<br>
-
-<p align="left">
+<p align="center">
   💻 <b>Mobile & Web Developer</b> <br/>
-  🚀 Building useful things that actually solve problems (not just cool experiments)
+  🚀 I build useful digital products (not just experiments)
 </p>
 
 <p align="center">
-  <a href="https://gas-jajan.online/">🌐 gas-jajan.online</a> •
-  <a href="https://linkedin.com/in/ghanda-syah">linkedin</a> •
-  <a href="mailto:hello@ghanda.com">email</a>
+  <a href="https://ghanda-syah.web.app/">🌐 website</a> •
+  <a href="https://www.linkedin.com/in/ghanda-syah-putra-dewa/">linkedin</a> •
+  <a href="https://instagram.com/ghandoy_">instagram</a> •
+  <a href="mailto:ghanda.syah@gmail.com">email</a>
 </p>
 
 ---
 
-## 🧠 a bit about me
+## 🧠 About me
 
-gue gak pengen nge-build *literally everything*. fokus utama gue cuma satu: bikin product yang **beneran nge-solve masalah orang** di dunia nyata.
-*simplicity over complexity. readable code over clever one-liners*.
+I don't like over-engineering things.  
+my focus is simple: build products that actually solve real-world problems.
 
-- 📱 **flutter** (main weapon buat mobile)
-- 🌐 **react / next.js** (kalo butuh stack web)
-- 🧩 demen banget beresin *real-world problems* yang aslinya emang *messy*
-- ⚡ obsessed ngebangun sistem yang *efficient* dan gampang di-maintain
+*simplicity over complexity. readable code over clever one-liners.*
 
-kadang emang gue *overthink* soal architecture di awal sih... tapi ya *worth it* lah buat jangka panjang 😄
-
----
-
-## 🚧 what i'm doing right now
-
-- 💸 **gas jajan** → lagi fokus nge-build split bill app, *biar kalo nongkrong abis itu gak usah repot ngitung duit*
-- 🔄 improving offline-first sync system (biar UX cepet, gak ada loading nyebelin, dan data aman)
-- 🎯 exploring better product thinking (karena coding jago doang gabisa bikin product dipake orang)
+- 🔭 **currently working on:** [Asia Quest Indonesia](https://aqi.co.id/)
+- 🌱 **currently learning:** system design & product thinking
+- 💬 **ask me about:** flutter, clean architecture, local database, sync systems
+- ⚡ **fun fact:** sometimes I spend more time designing data structure than writing the code 😄
 
 ---
 
-## 🧰 tools i use
+## 🧰 Tech stack I use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,nodejs,mongodb,sqlite,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,nodejs,mongodb,sqlite,firebase,git,figma,docker" />
 </p>
 
 ---
+
+## 🤝 Let's build something
+
+if you're building something useful and need a developer  
+or want to scale an existing product — i'm open to collaborate.
+
+<p align="left">
+  <a href="mailto:ghanda.syah@gmail.com">📩 say hi</a>
+</p>
+
+---
+
+<p align="center">
+  <i>keep it simple. keep it useful.</i>
+</p>
